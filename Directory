@@ -1,5 +1,5 @@
 face-blur-anonymizer/
-├── data/                   # Original input images
+├── data/                   # Original input images (downloaded automatically)
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── image3.jpg
@@ -9,7 +9,5 @@ face-blur-anonymizer/
 │   ├── output_image2.jpg
 │   └── output_image3.jpg
 │
-├── face_eye_blur_with_download.py   # Python script (downloads + processes)
-├── summary.docx            # 2–3 page written summary (APA 7 format)
-├── README.md               # (Optional) Explanation of project and usage
-└── requirements.txt        # (Optional) Python dependencies (e.g., opencv-python, requests)
+├── face_eye_blur_with_download.py   # Python script
+├── summary.docx            # Dr Matthews written summary included 
